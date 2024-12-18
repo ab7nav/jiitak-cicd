@@ -2,6 +2,7 @@ Tasks completed
 Created a simple web application
 
 Containerized the webapplication by using a Dockerfile.
+I have pushed the image to dockerhub anahilate77/jiitak_web_app:1.0
 
 Delpoyed the Application in AWS ec2.
 This application was deployed by pulling the docker image anahilate77/jiitak_web_app:1.0 from docker hub
