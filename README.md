@@ -1,4 +1,4 @@
-****Tasks completed****
+Tasks completed
 Created a simple web application
 
 Containerized the webapplication by using a Dockerfile.
