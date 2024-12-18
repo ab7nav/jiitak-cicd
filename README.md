@@ -19,4 +19,3 @@ I have created a Jenkins Pipeline that has three stages
 3> run container stage
    This stage checks for any existing container using port 5001 on the host machine.
    If found, the container is stoped and removed before the new container is run.
-
